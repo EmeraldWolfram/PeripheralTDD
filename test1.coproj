@@ -65,7 +65,7 @@
       <Option name="org.coocox.codebugger.gdbjtag.core.autoDownload" value="1"/>
       <Option name="org.coocox.codebugger.gdbjtag.core.verify" value="1"/>
       <Option name="org.coocox.codebugger.gdbjtag.core.downloadFuction" value="Erase Full Chip"/>
-      <Option name="org.coocox.codebugger.gdbjtag.core.defaultAlgorithm" value="C:\Users\D203C-01\AppData\Roaming\CooCox\CoIDE\config\flash\CooCox-Flash\CoIDE_STM32F4xx_2048K\STM32F4xx_2048.elf"/>
+      <Option name="org.coocox.codebugger.gdbjtag.core.defaultAlgorithm" value="C:\Users\GhinY\AppData\Roaming\CooCox\CoIDE\config\flash\CooCox-Flash\CoIDE_STM32F4xx_2048K\STM32F4xx_2048.elf"/>
     </DebugOption>
     <ExcludeFile/>
   </Target>
@@ -75,21 +75,22 @@
     <File name="App/main.c" path="app/main.c" type="1"/>
     <File name="Config/system_stm32f4xx.c" path="app/Config/system_stm32f4xx.c" type="1"/>
     <File name="App" path="" type="2"/>
-    <File name="Config/stm32f4xx_hal_conf.h" path="app/Config/stm32f4xx_hal_conf.h" type="1"/>
     <File name="App/Rcc.c" path="app/Rcc.c" type="1"/>
+    <File name="Config/stm32f4xx_hal_conf.h" path="app/Config/stm32f4xx_hal_conf.h" type="1"/>
     <File name="Core/core_cm4.h" path="Drivers/CMSIS/Include/core_cm4.h" type="1"/>
+    <File name="App/Specific" path="" type="2"/>
     <File name="Core/core_cmFunc.h" path="Drivers/CMSIS/Include/core_cmFunc.h" type="1"/>
-    <File name="App/Register.h" path="app/Specific/Register.h" type="1"/>
     <File name="Config/stm32f429xx.h" path="app/Config/stm32f429xx.h" type="1"/>
     <File name="Config/startup_stm32f429xx.s" path="app/Config/startup_stm32f429xx.s" type="1"/>
+    <File name="App/Specific/Register.h" path="app/Specific/Register.h" type="1"/>
     <File name="App/Gpio.h" path="app/Gpio.h" type="1"/>
     <File name="App/Rcc.h" path="app/Rcc.h" type="1"/>
     <File name="Core/core_cmSimd.h" path="Drivers/CMSIS/Include/core_cmSimd.h" type="1"/>
     <File name="Config/system_stm32f4xx.h" path="app/Config/system_stm32f4xx.h" type="1"/>
     <File name="Core" path="" type="2"/>
     <File name="Config/stm32f4xx.h" path="app/Config/stm32f4xx.h" type="1"/>
-    <File name="Core/core_cmInstr.h" path="Drivers/CMSIS/Include/core_cmInstr.h" type="1"/>
     <File name="Config" path="" type="2"/>
+    <File name="Core/core_cmInstr.h" path="Drivers/CMSIS/Include/core_cmInstr.h" type="1"/>
     <File name="App/Gpio.c" path="app/Gpio.c" type="1"/>
   </Files>
   <Bookmarks/>

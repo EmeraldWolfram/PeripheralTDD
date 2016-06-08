@@ -31,7 +31,6 @@
   :source:
     - app/**
     - src/**
-    # - -:src/Main/**
   :support:
     - test/support
 
